@@ -44,8 +44,8 @@ Alliance and representing Peru before OECD committees. From May 2022 to December
 Economist at the Consejo Privado de Competitividad (CPC). Earlier I
 advised the Ministerial Cabinet at the Ministry of Energy and Mines (2021) and the Presidency of
 CONCYTEC (2020), and I have served on the boards of Peruvian public institutions including CONCYTEC,
-INACAL and SENACE. Currently, I serve as a board member at the Peru's Development Finance Corporation
-- COFIDE.
+INACAL and SENACE. Currently, I serve as a board member at the Peru's Development Finance
+Corporation COFIDE.
 
 ## Contact
 
