@@ -14,9 +14,10 @@ January 2025. My research is in **regional and urban economics, economic geograp
 economics**, with an emphasis on the spatial problems of cities and regions studied with
 micro-geographic data and spatial econometrics.
 
-I hold a Ph.D. in Economics (*Summa Cum Laude*) from the Universidad Autónoma de Madrid, an
+I hold a Ph.D. in Economics (*Summa Cum Laude*, 2022) from the Universidad Autónoma de Madrid, an
 M.Sc. in Regional and Urban Planning from the London School of Economics and Political Science
-(LSE), and a B.Sc. in Economics from the PUCP.
+(LSE), and a B.Sc. in Economics from the PUCP. I also teach economics for public management at the
+Institute of Government and Public Management of the Universidad de San Martín de Porres.
 
 ## Policy experience
 
@@ -33,13 +34,16 @@ CONCYTEC and SENACE.
 ## Research
 
 My scholarship focuses on the location patterns of firms and industries, transport costs and spatial
-spillovers, fiscal transfers and municipal efficiency, and the economics of environmental
-externalities from mining. I am also the co-author, with Waldo Mendoza, of the graduate textbook
-*Macroeconomía. Un marco de análisis para una economía pequeña y abierta* (Fondo Editorial PUCP,
-2006). In 2021 I received the North American Regional Science Council's Graduate-Student-Author Paper
-Competition award.
+spillovers, the prioritisation of infrastructure investment, fiscal transfers and municipal
+efficiency, and the economics of environmental externalities from mining. Recent work has appeared in
+*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022). I am
+also the co-author, with Waldo Mendoza, of the graduate textbook *Macroeconomía. Un marco de
+análisis para una economía pequeña y abierta* (Fondo Editorial PUCP, 2006). In 2021 I won the North
+American Regional Science Council's Graduate-Student-Author Paper Competition.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=GmypzykAAAAJ),
+[ORCID](https://orcid.org/0000-0002-2308-7925),
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57396265000),
 [IDEAS/RePEc](https://ideas.repec.org/f/phe484.html) and
 [ResearchGate](https://www.researchgate.net/profile/Pedro-Herrera-Catalan), and browse the
 [publications](/publications/) and [teaching](/teaching/) pages of this site.

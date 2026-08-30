@@ -37,12 +37,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=GmypzykAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0000-0002-2308-7925"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Pedro-Herrera-Catalan"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57396265000"
   zotero           : # URL
 
 
@@ -84,13 +84,17 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book'
+  bookchapters:
+    title: 'Book Chapters'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Peer-Reviewed Journal Articles'
+  spanishjournals:
+    title: 'Journal Articles (in Spanish)'
+  policypapers:
+    title: 'Policy Papers'
   workingpapers:
     title: 'Working Papers'
-  wip:
-    title: 'Work in Progress'
   other:
     title: 'Other Writings'
 
