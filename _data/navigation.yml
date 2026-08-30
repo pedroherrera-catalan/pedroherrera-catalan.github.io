@@ -1,0 +1,12 @@
+# The order of the links in the header of the website.
+# Removing a link prevents it from showing in the header (but not from the site).
+
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/

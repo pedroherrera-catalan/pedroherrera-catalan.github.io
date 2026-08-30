@@ -1,0 +1,9 @@
+# Authors (used only for multi-author blog posts; the site has none by default)
+
+Pedro Herrera-Catalán:
+  name          : "Pedro Herrera-Catalán"
+  uri           : "https://www.pedroherrera-catalan.com"
+  email         : "pedro.herrera@pucp.edu.pe"
+  bio           : "Professor of Economics, Pontificia Universidad Católica del Perú."
+  avatar        : "profile.png"
+  googlescholar : "https://scholar.google.com/citations?user=GmypzykAAAAJ"
