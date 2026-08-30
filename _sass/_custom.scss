@@ -164,3 +164,31 @@ hr           { margin: 1em 0; }
   margin: 0;
   font-size: 15px;
 }
+
+/* --------------------------------------------------------------------------
+   The real reason the boxes were invisible on desktop: the theme makes the
+   sidebar `position:fixed; height:100vh; overflow-y:auto` at >=1024px, so the
+   tall portrait photo pushed the employer line and the 6 boxes below the
+   viewport, where they could only be reached by scrolling *inside* the
+   sidebar. Let the sidebar flow with the page instead (sticky, no clipping).
+   -------------------------------------------------------------------------- */
+@media screen and (min-width: 1024px) {
+  .sidebar,
+  .sidebar.sticky {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 2em !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    padding-top: 0 !important;
+  }
+}
+
+/* Keep the photo modest so the whole profile fits without scrolling. */
+.author__avatar img {
+  max-width: 220px;
+}
+@media screen and (min-width: 1024px) {
+  .author__avatar img { max-width: 240px; }
+}
