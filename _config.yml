@@ -13,7 +13,7 @@ title                    : "Pedro Herrera-Catalán"
 title_separator          : "-"
 name                     : &name "Pedro Herrera-Catalán"
 description              : &description "Economist. Regional and urban economics, economic geography and public economics, with an emphasis on the spatial problems of cities and regions using micro-geographic data."
-url                      : https://www.pedroherrera-catalan.com # The base hostname & protocol for your site
+url                      : https://pedroherrera-catalan.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedroherrera-catalan/pedroherrera-catalan.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Professor of Economics at the Pontificia Universidad Católica del Perú (PUCP). Regional and urban economics, economic geography and public economics."
   location         : "Lima, Peru"
   employer         : "Pontificia Universidad Católica del Perú"
-  uri              : "https://www.pedroherrera-catalan.com"
+  uri              : "https://pedroherrera-catalan.github.io"
   email            : "pedro.herrera@pucp.edu.pe"
 
   # Academic websites
