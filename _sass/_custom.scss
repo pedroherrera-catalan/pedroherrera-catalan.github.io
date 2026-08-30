@@ -85,13 +85,30 @@ hr           { margin: 1em 0; }
    with enough specificity to beat the theme's default `.author__urls`.
    -------------------------------------------------------------------------- */
 .sidebar .author__urls.social-icons {
-  display: flex;
+  display: flex !important;   /* beat the theme's `display:none` below 925px */
   flex-wrap: wrap;
   justify-content: flex-start;
   gap: 5px;
   margin: 0.9em 0 0;
   padding: 0;
   list-style: none;
+
+  /* The theme renders this list as an absolutely-positioned dropdown
+     (position:absolute; right:0; z-index:-1) on narrow screens, which hides
+     the boxes behind the page. Force normal flow at every width. */
+  position: static !important;
+  right: auto !important;
+  z-index: auto !important;
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+/* kill the dropdown "arrow" pseudo-elements */
+.sidebar .author__urls.social-icons::before,
+.sidebar .author__urls.social-icons::after {
+  display: none !important;
 }
 
 /* location / employer: full-width plain lines above the grid */
