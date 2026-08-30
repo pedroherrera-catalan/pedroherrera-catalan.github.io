@@ -172,23 +172,20 @@ hr           { margin: 1em 0; }
    viewport, where they could only be reached by scrolling *inside* the
    sidebar. Let the sidebar flow with the page instead (sticky, no clipping).
    -------------------------------------------------------------------------- */
-@media screen and (min-width: 1024px) {
-  .sidebar,
-  .sidebar.sticky {
-    position: -webkit-sticky !important;
-    position: sticky !important;
-    top: 2em !important;
-    height: auto !important;
-    max-height: none !important;
-    overflow: visible !important;
-    padding-top: 0 !important;
-  }
+.sidebar,
+.sidebar.sticky {
+  position: static !important;   /* was position:fixed; height:100vh at >=1024px */
+  height: auto !important;
+  max-height: none !important;
+  min-height: 0 !important;
+  overflow: visible !important;
+  padding-top: 0 !important;
 }
 
-/* Photo: as large as the sidebar column allows. */
+/* Photo: large, but leave room for the boxes below it. */
 .author__avatar img {
-  max-width: 300px;
+  max-width: 280px;
 }
 @media screen and (min-width: 1024px) {
-  .author__avatar img { max-width: 360px; }
+  .author__avatar img { max-width: 320px; }
 }
