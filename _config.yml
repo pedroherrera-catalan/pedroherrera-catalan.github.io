@@ -26,7 +26,7 @@ author:
   name             : "Pedro Herrera-Catalán"
   pronouns         : # example: "she/her"
   bio              : "Professor of Economics. Regional and urban economics, economic geography and public economics."
-  location         : "Lima, Peru"
+  location         : # "Lima, Peru"  — hidden from the profile sidebar
   employer         : "Pontificia Universidad Católica del Perú"
   uri              : "https://pedroherrera-catalan.github.io"
   email            : "pedro.herrera@pucp.edu.pe"

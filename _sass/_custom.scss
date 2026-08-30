@@ -143,13 +143,13 @@ hr           { margin: 1em 0; }
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 3px;
-  min-height: 44px;
+  gap: 2px;
+  min-height: 34px;
   margin: 0;
-  padding: 6px 3px;
+  padding: 4px 2px;
   border: 0;
-  font-size: 10px;
-  line-height: 1.15;
+  font-size: 9px;
+  line-height: 1.1;
   color: var(--global-text-color);
   text-decoration: none;
   overflow-wrap: anywhere;
@@ -162,7 +162,7 @@ hr           { margin: 1em 0; }
 
 .sidebar .author__urls.social-icons li:not(.author__desktop) a i {
   margin: 0;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 /* --------------------------------------------------------------------------
@@ -185,10 +185,10 @@ hr           { margin: 1em 0; }
   }
 }
 
-/* Keep the photo modest so the whole profile fits without scrolling. */
+/* Photo: as large as the sidebar column allows. */
 .author__avatar img {
-  max-width: 220px;
+  max-width: 300px;
 }
 @media screen and (min-width: 1024px) {
-  .author__avatar img { max-width: 240px; }
+  .author__avatar img { max-width: 360px; }
 }
