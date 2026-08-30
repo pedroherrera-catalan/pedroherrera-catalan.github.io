@@ -25,7 +25,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    @include span(4 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -193,18 +193,18 @@
 }
 
 /* --------------------------------------------------------------------------
-   Custom: rectangular (non-circular) author photo + tighter sidebar so the
-   name, bio and links sit above the fold, closer to alexanderquispe.github.io
+   Custom: large rectangular author photo, and the details below it laid out
+   as horizontal boxes, in the spirit of alexanderquispe.github.io
    -------------------------------------------------------------------------- */
 .author__avatar {
   @include breakpoint($large) {
     width: 100%;
     text-align: center;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.9em;
   }
 
   img {
-    max-width: 220px;
+    max-width: 340px;
     width: 100%;
     height: auto;
     border-radius: 6px;
@@ -217,17 +217,56 @@
 }
 
 .sidebar {
-  .author__bio {
-    margin: 0.4em 0 0.9em;
-    font-size: 0.9em;
-    line-height: 1.4;
+  .author__content {
+    text-align: center;
   }
 
+  .author__bio {
+    margin: 0.3em 0 0.8em;
+  }
+
+  /* location / employer: plain centered lines, not boxes */
+  .author__urls .author__desktop {
+    display: block;
+    padding: 1px 0;
+    color: var(--global-text-color-light, inherit);
+  }
+
+  /* the clickable profiles as a wrapping grid of bordered boxes */
   .author__urls {
-    font-size: 0.82em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 12px;
+    padding: 0;
 
     li {
-      padding: 0.12em 0;
+      margin: 0;
+      padding: 0;
+
+      &:not(.author__desktop) {
+        flex: 1 1 45%;
+        border: 1px solid var(--global-border-color);
+        border-radius: 5px;
+        background: var(--global-footer-bg-color, transparent);
+        text-align: center;
+
+        a {
+          display: block;
+          padding: 7px 6px;
+          margin: 0;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+
+          &:hover { text-decoration: none; }
+        }
+      }
+
+      &.author__desktop {
+        flex: 1 1 100%;
+        order: -1;
+      }
     }
   }
 }

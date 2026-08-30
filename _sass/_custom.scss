@@ -1,0 +1,80 @@
+/* ==========================================================================
+   CUSTOM OVERRIDES
+   One typeface (Segoe UI), one body size (~10.5px), one heading size
+   (~12px bold), and a single, simple spacing rhythm across every section.
+   Imported last so it wins over the theme.
+   ========================================================================== */
+
+body {
+  font-family: $sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* Keep the overall measure compact (like alexanderquispe.github.io) even though
+   the left column is now wider. */
+#main {
+  max-width: 1120px;
+}
+
+/* --- Uniform headings -------------------------------------------------------- */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__subtitle,
+.archive__item-title,
+.author__name,
+.page__meta-title,
+.sidebar h2,
+.sidebar h3 {
+  font-family: $sans-serif;
+  font-size: $type-size-3;      // ~12px
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 1.5em 0 0.5em;
+  padding: 0;
+  border: 0 !important;         // kill the theme's underline on section headers
+  color: var(--global-text-color);
+}
+
+.page__title { margin-top: 0; }
+
+/* --- Uniform body text ----------------------------------------------------- */
+p, li, dd, dt, td, th, blockquote, figcaption,
+.page__content,
+.page__content p,
+.page__content li,
+.archive__item-excerpt,
+.author__bio,
+.author__urls,
+.page__meta,
+.page__date,
+.masthead__menu-item,
+.greedy-nav a,
+.page__footer,
+.page__footer-copyright {
+  font-size: $type-size-5;      // ~10.5px
+  font-family: $sans-serif;
+}
+
+/* --- Single, simple spacing rhythm --------------------------------------- */
+p            { margin: 0 0 0.7em; }
+ul, ol       { margin: 0 0 0.7em; }
+li           { margin: 0.1em 0; }
+hr           { margin: 1em 0; }
+
+.page__content {
+  > :first-child { margin-top: 0; }
+
+  h2, h3, h4 {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+}
+
+.archive__item        { margin-bottom: 0.6em; }
+.archive__item-title  { margin: 1em 0 0.15em; }
+.archive__item-excerpt { margin: 0.15em 0 0; }
+.list__item           { margin-bottom: 0.5em; }
+
+/* CV page: consistent block spacing between the h1 groups */
+.cv-section + .cv-section { margin-top: 1.2em; }

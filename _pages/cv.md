@@ -97,14 +97,7 @@ Languages
 ======
 Spanish (native); English (advanced, C1)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+---
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See the [publications](/publications/) and [teaching](/teaching/) pages for the full
+list, or download the [PDF CV](/files/pedro-herrera-catalan-cv.pdf).
