@@ -29,16 +29,15 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-/* Type scale — deliberately flat: body text ~12px, headings ~14px.
-   Root font-size is 12px (see _reset.scss), so 1em = 12px here. */
-$type-size-1                : 1.167em;  // ~14px
-$type-size-2                : 1.167em;  // ~14px
-$type-size-3                : 1.167em;  // ~14px
-$type-size-4                : 1.167em;  // ~14px
-$type-size-5                : 1em;      // ~12px
-$type-size-6                : 1em;      // ~12px
-$type-size-7                : 0.917em;  // ~11px
-$type-size-8                : 0.917em;  // ~11px
+/* Type scale — deliberately flat: body text 12px, headings 14px. */
+$type-size-1                : 14px;
+$type-size-2                : 14px;
+$type-size-3                : 14px;
+$type-size-4                : 14px;
+$type-size-5                : 12px;
+$type-size-6                : 12px;
+$type-size-7                : 12px;
+$type-size-8                : 11px;
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
