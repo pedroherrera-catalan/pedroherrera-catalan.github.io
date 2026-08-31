@@ -39,7 +39,7 @@ Alongside my academic work I have held several positions in the Peruvian public 
 Chief of Staff of Advisors at the Ministry of Economy and Finance (MEF) on two separate occasions, in
 2025 and 2026, and, between March and July 2025, as General Director of International Economy,
 Competition and Productivity Affairs at the MEF —
-a role I also held during 2017–2019, coordinating the Finance Ministers' track of the Pacific
+a role I also held during 2017–2020, coordinating the Finance Ministers' track of the Pacific
 Alliance and representing Peru before OECD committees. From May 2022 to December 2024 I was Chief
 Economist at the Consejo Privado de Competitividad (CPC). Earlier I
 advised the Ministerial Cabinet at the Ministry of Energy and Mines (2021) and the Presidency of
