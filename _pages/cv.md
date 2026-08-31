@@ -35,7 +35,7 @@ Major fields of interest
 Selected awards and honors
 ======
 * 2023 — 2nd Place, XXVIII National Research Grant Competition (indexed-journal papers), CIES
-* 2021 — Winner, Graduate-Student-Author Paper Competition, North American Regional Science Council (68th NARSC, Denver)
+* 2021 — Winner, Graduate-Student-Author Paper Competition, [North American Regional Science Council](https://www.narsc.org/newsite/awards-prizes/narsc-student-competitions/) (68th NARSC, Denver)
 * 2020 — Nominee, Graduate-Student-Author Paper Competition, NARSC (67th NARSC)
 * 2014 — Travel Grant, LSE, for the 54th ERSA Congress (Saint Petersburg)
 

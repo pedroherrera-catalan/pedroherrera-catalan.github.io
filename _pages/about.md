@@ -23,8 +23,10 @@ M.Sc. in Regional and Urban Planning from the London School of Economics and Pol
 My scholarship focuses on the location patterns of firms and industries, transport costs and spatial
 spillovers, the prioritisation of infrastructure investment, fiscal transfers and municipal
 efficiency, and the economics of environmental externalities. Recent work has appeared in
-*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022). In 2021
-I won the North American Regional Science Council's Graduate-Student-Author Paper Competition.
+*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022).
+In 2021 I won the
+[North American Regional Science Council's](https://www.narsc.org/newsite/awards-prizes/narsc-student-competitions/)
+Graduate-Student-Author Paper Competition.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=GmypzykAAAAJ),
 [ORCID](https://orcid.org/0000-0002-2308-7925),
