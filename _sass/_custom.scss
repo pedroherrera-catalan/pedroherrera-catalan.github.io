@@ -38,6 +38,20 @@ h1, h2, h3, h4, h5, h6,
 
 .page__title { margin-top: 0; }
 
+/* Give the titles a little more presence than body copy. */
+.page__title,
+.archive__subtitle {
+  font-size: 19px;
+}
+h2,
+.sidebar h2 {
+  font-size: 16px;
+}
+h3,
+.sidebar h3 {
+  font-size: 15px;
+}
+
 /* --- Uniform body text ----------------------------------------------------- */
 p, li, dd, dt, td, th, blockquote, figcaption,
 .page__content,
