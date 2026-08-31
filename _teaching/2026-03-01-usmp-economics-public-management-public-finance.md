@@ -8,5 +8,5 @@ venue: "Universidad de San Martín de Porres, Institute of Government and Public
 date: 2026-03-01
 location: "Lima, Peru"
 ---
-Postgraduate course on economic analysis for public management: fiscal policy, public budgeting, public investment and the economics of government decision-making. Taught since 2022.
+Postgraduate course on economic analysis for public management: fiscal policy, public budgeting, public investment and the economics of government decision-making.
 
