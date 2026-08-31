@@ -22,8 +22,8 @@ Education
 Academic appointments
 ======
 * Professor, Department of Economics, Pontificia Universidad Católica del Perú (since Aug 2006)
-* Professor, Institute of Government and Public Management, Universidad de San Martín de Porres (since Apr 2022)
 * Editor-in-Chief, journal *Economía*, Department of Economics, PUCP (since Jan 2025)
+* Professor, Institute of Government and Public Management, Universidad de San Martín de Porres (since Apr 2022)
 
 Major fields of interest
 ======
