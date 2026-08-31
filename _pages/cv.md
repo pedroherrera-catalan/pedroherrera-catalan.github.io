@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D. in Economics, Universidad Autónoma de Madrid, 2022 — *Summa Cum Laude*
 * M.Sc. in Regional and Urban Planning, London School of Economics and Political Science, 2014
-* Licenciado en Economía, Pontificia Universidad Católica del Perú, 2010
+* Licentiate in Economics, Pontificia Universidad Católica del Perú, 2010
 * B.Sc. in Economics, Pontificia Universidad Católica del Perú, 2002
 
 Academic appointments
