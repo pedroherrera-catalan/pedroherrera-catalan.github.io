@@ -25,7 +25,7 @@ spillovers, the prioritisation of infrastructure investment, fiscal transfers an
 efficiency, and the economics of environmental externalities. Recent work has appeared in
 *Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022).
 In 2021 I won the
-[North American Regional Science Council's](https://www.narsc.org/newsite/awards-prizes/narsc-student-competitions/)
+[North American Regional Science Council](https://www.narsc.org/newsite/awards-prizes/narsc-student-competitions/)'s
 Graduate-Student-Author Paper Competition.
 
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=GmypzykAAAAJ),
