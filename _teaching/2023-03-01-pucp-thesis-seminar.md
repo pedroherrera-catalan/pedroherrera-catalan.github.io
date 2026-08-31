@@ -1,6 +1,7 @@
 ---
 title: "Thesis Seminar I & II"
 collection: teaching
+order: 5
 type: "Undergraduate course"
 permalink: /teaching/pucp-thesis-seminar
 venue: "Pontificia Universidad Católica del Perú, Department of Economics"

@@ -1,6 +1,7 @@
 ---
 title: "Macroeconomics 1"
 collection: teaching
+order: 4
 type: "Undergraduate course"
 permalink: /teaching/pucp-macroeconomics-1
 venue: "Pontificia Universidad Católica del Perú, Department of Economics"

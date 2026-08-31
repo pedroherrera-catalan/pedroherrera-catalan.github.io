@@ -1,6 +1,7 @@
 ---
 title: "Economics for Public Management and Public Finance"
 collection: teaching
+order: 7
 type: "Postgraduate course"
 permalink: /teaching/usmp-economics-public-management-public-finance
 venue: "Universidad de San Martín de Porres, Institute of Government and Public Management"

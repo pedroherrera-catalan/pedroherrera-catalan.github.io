@@ -1,6 +1,7 @@
 ---
 title: "Regional Economics"
 collection: teaching
+order: 1
 type: "Undergraduate course"
 permalink: /teaching/pucp-regional-economics
 venue: "Pontificia Universidad Católica del Perú, Department of Economics"

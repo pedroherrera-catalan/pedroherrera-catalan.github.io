@@ -1,6 +1,7 @@
 ---
 title: "Urban Economics"
 collection: teaching
+order: 2
 type: "Undergraduate course"
 permalink: /teaching/pucp-urban-economics
 venue: "Pontificia Universidad Católica del Perú, Department of Economics"

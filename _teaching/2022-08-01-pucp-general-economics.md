@@ -1,6 +1,7 @@
 ---
 title: "General Economics / Introduction to Macroeconomics"
 collection: teaching
+order: 6
 type: "Undergraduate course"
 permalink: /teaching/pucp-general-economics
 venue: "Pontificia Universidad Católica del Perú, Department of Economics"

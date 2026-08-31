@@ -1,6 +1,7 @@
 ---
 title: "Public Economics"
 collection: teaching
+order: 3
 type: "Undergraduate course"
 permalink: /teaching/pucp-public-economics
 venue: "Pontificia Universidad Católica del Perú, Department of Economics"
