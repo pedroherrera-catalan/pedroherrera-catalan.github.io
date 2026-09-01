@@ -14,7 +14,7 @@ January 2025. My research is in **regional and urban economics, economic geograp
 economics**, with an emphasis on the spatial problems of cities and regions studied with
 micro-geographic data and spatial econometrics.
 
-I hold a Ph.D. in Economics (*Summa Cum Laude*, 2022) from the Universidad Autónoma de Madrid, a
+I hold a Ph.D. in Economics (*Summa Cum Laude*, 2022) from the Universidad Autónoma de Madrid, an
 M.Sc. in Regional and Urban Planning from the London School of Economics and Political Science
 (LSE), and a B.Sc. in Economics from the PUCP.
 
