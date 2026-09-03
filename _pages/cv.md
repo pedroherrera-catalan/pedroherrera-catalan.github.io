@@ -53,23 +53,18 @@ Research grants
 * 2008 — 1st Place, ECLAC Research Grant Competition, XX Regional Seminar of Fiscal Policy, US$2,000
 * 2005, 2004 — CIES-CIDA-IDRC National Research Grant Competition (with P. Francke; with R. Málaga)
 
-Visiting positions
-======
-* Visiting Research Fellow, Department of Economics, UC Louvain / University of Liège (Feb–Apr 2008) —
-  project on efficiency and productivity in municipal infrastructure provision in Peru (with S. Perelman)
-
 Selected policy experience
 ======
 * 2025–2026: Chief of Staff, Ministerial Office, Ministry of Economy and Finance of Peru (MEF)
 * 2025: General Director, International Economy, Competition and Productivity Affairs, MEF
   (focal point for Peru's OECD accession; regulatory quality and administrative simplification)
-* 2017–2020: General Director, International Economy, Competition and Productivity Affairs, MEF
-  (coordinator of the Pacific Alliance Finance Ministers' track; Peru in the OECD Regulatory Policy Committee;
-  National Designated Authority to the Green Climate Fund)
-* 2018–2019: Chief Executive Officer, National Competitiveness and Formalisation Council, MEF
 * 2022–2024: Chief Economist, Consejo Privado de Competitividad (CPC)
 * 2021: Advisor to the Ministerial Cabinet, Ministry of Energy and Mines (MINEM)
 * 2020: Advisor to the Presidency, CONCYTEC
+* 2018–2019: Chief Executive Officer, National Competitiveness and Formalisation Council, MEF
+* 2017–2020: General Director, International Economy, Competition and Productivity Affairs, MEF
+  (coordinator of the Pacific Alliance Finance Ministers' track; Peru in the OECD Regulatory Policy Committee;
+  National Designated Authority to the Green Climate Fund)
 * 2011–2016: Research Coordinator / Chief Economist on investment-prioritisation and competitiveness at the MEF
 
 Board memberships
