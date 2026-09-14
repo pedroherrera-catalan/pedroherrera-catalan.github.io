@@ -23,10 +23,8 @@ M.Sc. in Regional and Urban Planning from the London School of Economics and Pol
 My scholarship focuses on the location patterns of firms and industries, transport costs and spatial
 spillovers, the prioritisation of infrastructure investment, fiscal transfers and municipal
 efficiency, and the economics of environmental externalities. Recent work has appeared in
-*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022), and I
-contributed the entry "Concentration vs. Deconcentration" to the *Thematic Encyclopedia of Regional
-Science* (Nijkamp, P.; Kourtit, K.; Haynes, K. E.; Elburz, Z., eds., 2025, Edward Elgar Publishing,
-Northampton, Massachusetts, USA).
+*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022). I also
+contributed an entry to the *Thematic Encyclopedia of Regional Science* (Edward Elgar, 2025).
 In 2021 I won the
 [North American Regional Science Council](https://www.narsc.org/newsite/awards-prizes/narsc-student-competitions/)'s
 Graduate-Student-Author Paper Competition.
