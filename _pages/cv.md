@@ -58,7 +58,7 @@ Selected policy experience
 * 2025–2026: Chief of Staff, Ministerial Office, Ministry of Economy and Finance of Peru (MEF)
 * 2025: General Director, International Economy, Competition and Productivity Affairs, MEF
   (focal point for Peru's OECD accession; regulatory quality and administrative simplification)
-* 2022–2024: Chief Economist, Consejo Privado de Competitividad (CPC)
+* 2022–2024: Chief Economist, Private Council on Competitiveness (CPC)
 * 2021: Advisor to the Ministerial Cabinet, Ministry of Energy and Mines (MINEM)
 * 2020: Advisor to the Presidency, CONCYTEC
 * 2018–2019: Chief Executive Officer, National Competitiveness and Formalisation Council, MEF

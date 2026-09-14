@@ -23,7 +23,10 @@ M.Sc. in Regional and Urban Planning from the London School of Economics and Pol
 My scholarship focuses on the location patterns of firms and industries, transport costs and spatial
 spillovers, the prioritisation of infrastructure investment, fiscal transfers and municipal
 efficiency, and the economics of environmental externalities. Recent work has appeared in
-*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022).
+*Papers in Regional Science* (2025, with Coro Chasco and Vicente Royuela) and *Land* (2022), and I
+contributed the entry "Concentration vs. Deconcentration" to the *Thematic Encyclopedia of Regional
+Science* (Nijkamp, P.; Kourtit, K.; Haynes, K. E.; Elburz, Z., eds., 2025, Edward Elgar Publishing,
+Northampton, Massachusetts, USA).
 In 2021 I won the
 [North American Regional Science Council](https://www.narsc.org/newsite/awards-prizes/narsc-student-competitions/)'s
 Graduate-Student-Author Paper Competition.
@@ -43,7 +46,7 @@ Chief of Staff of Advisors at the Ministry of Economy and Finance (MEF) on two s
 Competition and Productivity Affairs at the MEF —
 a role I also held during 2017–2020, coordinating the Finance Ministers' track of the Pacific
 Alliance and representing Peru before OECD committees. From May 2022 to December 2024 I was Chief
-Economist at the Consejo Privado de Competitividad (CPC). Earlier I
+Economist at the Private Council on Competitiveness (CPC). Earlier I
 advised the Ministerial Cabinet at the Ministry of Energy and Mines (2021) and the Presidency of
 CONCYTEC (2020), and I have served on the boards of Peruvian public institutions including CONCYTEC,
 INACAL and SENACE. Currently, I serve as a board member at the Peru's Development Finance
