@@ -10,7 +10,7 @@ redirect_from:
 I am a Professor in the [Department of Economics](https://departamento.pucp.edu.pe/economia/) at the
 Pontificia Universidad Católica del Perú (PUCP), where I have taught since August 2006, and
 Editor-in-Chief of the journal *[Economía](https://revistas.pucp.edu.pe/index.php/economia/)* since
-January 2025. My research is in **regional and urban economics, economic geography and public
+January 2025. My research interests lie in **regional and urban economics, economic geography and public
 economics**, with an emphasis on the spatial problems of cities and regions studied with
 micro-geographic data and spatial econometrics.
 
