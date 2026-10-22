@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version of my curriculum vitae (updated September 2026) is available
+A full PDF version of my curriculum vitae (updated October 2026) is available
 [here](/files/pedro-herrera-catalan-cv.pdf).
 
 Education
@@ -55,9 +55,14 @@ Research grants
 
 Selected policy experience
 ======
-* 2025–2026: Chief of Staff, Ministerial Office, Ministry of Economy and Finance of Peru (MEF)
-* 2025: General Director, International Economy, Competition and Productivity Affairs, MEF
-  (focal point for Peru's OECD accession; regulatory quality and administrative simplification)
+* Oct 2025–Mar 2026: Chief of Staff, Ministerial Office, MEF
+  (macroeconomic, fiscal, political and external risk analysis for policy implementation; strategy for the
+  Specialised Investment Monitoring Team, EESI–MEF; financial sustainability strategy for Petroperú;
+  governor representing Peru at the IDB's Annual Meetings of the Boards of Governors)
+* Feb–Jul 2025: General Director, International Economy, Competition and Productivity Affairs, MEF
+  (focal point for Peru's OECD accession; regulatory quality and administrative simplification, "Deregulatory Shock";
+  sustainable economy and green growth measures)
+* Jan–Feb 2025: Chief of Staff, Ministerial Office, MEF (design of the "Deregulatory Shock" strategy)
 * 2022–2024: Chief Economist, Private Council on Competitiveness (CPC)
 * 2021: Advisor to the Ministerial Cabinet, Ministry of Energy and Mines (MINEM)
 * 2020: Advisor to the Presidency, CONCYTEC
