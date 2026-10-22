@@ -46,8 +46,7 @@ a role I also held during 2017–2020, coordinating the Finance Ministers' track
 Alliance and representing Peru before OECD committees. Between 2018 and 2019 I was Chief Executive
 Officer of the National Competitiveness and Formalisation Council, responsible for the technical team
 that designed, implemented and monitored the National Competitiveness and Productivity Policy
-2019–2030 and its Plan. From May 2022 to December 2024 I was Chief
-Economist at the Private Council on Competitiveness (CPC). Earlier I
+2019–2030 and its Plan. Earlier I
 advised the Ministerial Cabinet at the Ministry of Energy and Mines (2021) and the Presidency of
 CONCYTEC (2020), and, between 2003 and 2013, worked as an economic analyst at the Vice Ministries of
 Economy and of Treasury of the MEF, where I was part of Peru's negotiating team for the Free Trade
