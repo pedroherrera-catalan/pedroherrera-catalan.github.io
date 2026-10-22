@@ -43,10 +43,17 @@ Chief of Staff of Advisors at the Ministry of Economy and Finance (MEF) on two s
 2025 and 2026, and, between February and July 2025, as General Director of International Economy,
 Competition and Productivity Affairs at the MEF —
 a role I also held during 2017–2020, coordinating the Finance Ministers' track of the Pacific
-Alliance and representing Peru before OECD committees. From May 2022 to December 2024 I was Chief
+Alliance and representing Peru before OECD committees. Between 2018 and 2019 I was Chief Executive
+Officer of the National Competitiveness and Formalisation Council, responsible for the technical team
+that designed, implemented and monitored the National Competitiveness and Productivity Policy
+2019–2030 and its Plan. From May 2022 to December 2024 I was Chief
 Economist at the Private Council on Competitiveness (CPC). Earlier I
 advised the Ministerial Cabinet at the Ministry of Energy and Mines (2021) and the Presidency of
-CONCYTEC (2020), and I have served on the boards of Peruvian public institutions including CONCYTEC,
+CONCYTEC (2020), and, between 2003 and 2013, worked as an economic analyst at the Vice Ministries of
+Economy and of Treasury of the MEF, where I was part of Peru's negotiating team for the Free Trade
+Agreements with China, South Korea, Japan, the European Union and Mexico, and contributed to the
+design of the Municipal Incentive Programme and to the macroeconomic projections of the Multiannual
+Macroeconomic Framework. I have served on the boards of Peruvian public institutions including CONCYTEC,
 INACAL and SENACE. Currently, I serve as a board member at the Peru's Development Finance
 Corporation (COFIDE).
 
