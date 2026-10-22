@@ -56,27 +56,13 @@ Research grants
 Selected policy experience
 ======
 * Oct 2025–Mar 2026: Chief of Staff, Ministerial Office, MEF
-  (macroeconomic, fiscal, political and external risk analysis for policy implementation; strategy for the
-  Specialised Investment Monitoring Team, EESI–MEF; financial sustainability strategy for Petroperú;
-  governor representing Peru at the IDB's Annual Meetings of the Boards of Governors)
 * Feb–Jul 2025: General Director, International Economy, Competition and Productivity Affairs, MEF
-  (focal point for Peru's OECD accession; regulatory quality and administrative simplification, "Deregulatory Shock";
-  sustainable economy and green growth measures)
-* Jan–Feb 2025: Chief of Staff, Ministerial Office, MEF (design of the "Deregulatory Shock" strategy)
+* Jan–Feb 2025: Chief of Staff, Ministerial Office, MEF
 * 2022–2024: Chief Economist, Private Council on Competitiveness (CPC)
 * 2021: Advisor to the Ministerial Cabinet, Ministry of Energy and Mines (MINEM)
 * 2020: Advisor to the Presidency, CONCYTEC
 * 2018–2019: Chief Executive Officer, National Competitiveness and Formalisation Council, MEF
-  (responsible for the technical team that designed, implemented and monitored the National Competitiveness
-  and Productivity Policy 2019–2030 and its accompanying Plan)
 * 2017–2020: General Director, International Economy, Competition and Productivity Affairs, MEF
-  (coordinator of the Pacific Alliance Finance Ministers' track; Peru in the OECD Regulatory Policy Committee;
-  National Designated Authority to the Green Climate Fund)
-* 2011–2016: Research Coordinator / Chief Economist on investment-prioritisation and competitiveness at the MEF
-* 2003–2013: Economic Analyst, Vice Ministry of Economy and Vice Ministry of Treasury, MEF
-  (member of Peru's negotiating team for the Free Trade Agreements with China, South Korea, Japan, the
-  European Union and Mexico; design of the Municipal Incentive Programme; projections for the Multiannual
-  Macroeconomic Framework)
 
 Board memberships
 ======
